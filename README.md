@@ -197,8 +197,7 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-<a href="https://www.flaticon.com/free-icons/recipe" title="recipe icons">Recipe icons created by justicon - Flaticon</a><br />
-
+- Original design idea by: Gregoire Vella on Behance.
 - Thanks to all Microverse community
 
 
